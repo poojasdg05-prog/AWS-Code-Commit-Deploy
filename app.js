@@ -34,8 +34,8 @@ const products = [
   {
     id: '104',
     name: 'Smart Fitness Watch',
-    category: 'Wearables',
-    price: 12000,
+    category: 'New Wearables',
+    price: 20000,
     rating: 4.7,
     badge: 'Popular',
     desc: 'Advanced fitness tracking with heart rate monitoring and smart notifications.'
