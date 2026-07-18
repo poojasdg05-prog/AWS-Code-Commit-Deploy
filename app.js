@@ -8,18 +8,18 @@ const products = [
     id: '101',
     name: 'Developer Laptop Pro',
     category: 'Electronics-gadgets',
-    price: 120000,
+    price: 110000,
     rating: 4.8,
-    badge: 'New-Best Seller',
+    badge: 'Newer-Best Seller',
     desc: 'High-performance laptop optimized for development, DevOps, and cloud workloads.'
   },
   {
     id: '102',
     name: 'AI Camera Smartphone',
     category: 'Mobiles and accessories',
-    price: 20000,
+    price: 23000,
     rating: 4.6,
-    badge: 'New 2026 Launch',
+    badge: 'Newer 2026 Launch',
     desc: 'Next-generation smartphone with AI-powered camera and ultra-fast performance.'
   },
   {
